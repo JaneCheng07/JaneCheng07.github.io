@@ -1,6 +1,6 @@
 # Basic
 title: Jane's Dev
-subtitle: Jane's Development Life.
+subtitle: 
 welcome_message: <a href="https://janecheng07.github.io/" target="_blank">修炼iOS，偏执追求完美</a>
 description: Jane's Development Life.
 creator: <a href="http://janecheng07.github.io/">@janecheng</a>
@@ -13,16 +13,16 @@ permalink: /:year/:month/:title/
 highlighter: plain
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: white
+cover_color:
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://github.com/JaneCheng07'}
+    - {title: 项目, description: My Projects, url: 'http://github.com/JaneCheng07'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
