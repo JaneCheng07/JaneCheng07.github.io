@@ -1,7 +1,7 @@
 # Basic
 title: Jane's Dev
-subtitle: 修炼iOS，偏执追求完美
-welcome_message: <a href="https://janecheng07.github.io/" target="_blank">Jane's Dev</a>
+subtitle: Jane's Development Life.
+welcome_message: <a href="https://janecheng07.github.io/" target="_blank">修炼iOS，偏执追求完美</a>
 description: Jane's Development Life.
 creator: <a href="http://janecheng07.github.io/">@janecheng</a>
 
@@ -37,10 +37,7 @@ comment:
     
 # Social
 social:
-    weibo: janecheng
-    github: janecheng
-    twitter: janecheng
-    gplus: 107108267983477358170
+    github: JaneCheng07
     mail: jane33cheng@gmail.com
 
 # Google Analytics
