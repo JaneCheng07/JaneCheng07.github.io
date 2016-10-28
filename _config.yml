@@ -1,0 +1,49 @@
+# Basic
+title: Jane's Dev
+subtitle: Jane's Development Life
+welcome_message: <a href="https://janecheng07.github.io/" target="_blank">Jane's Dev</a>
+description: Jane's Development Life.
+creator: <a href="http://janecheng07.github.io/">@janecheng</a>
+
+url: "http://janecheng07.github.io/"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: plain
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: janecheng
+    # duoshuo: 
+    
+# Social
+social:
+    weibo: janecheng
+    github: janecheng
+    twitter: janecheng
+    gplus: 107108267983477358170
+    mail: jane33cheng@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
